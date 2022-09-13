@@ -38,6 +38,38 @@ h3 {
   position: sticky;
   top: 5px; }
 
+main p {
+  font-size: 20px;
+  font-family: "tahoma";
+  font-weight: bold; }
+
+@media only screen and (min-width: 1024px) {
+  main h1 {
+    font-size: 5em; }
+  main h2 {
+    font-size: 4em; } }
+
+/*map-get*/
+div {
+  background-color: #101011;
+  text-align: center;
+  padding: 1rem;
+  font-size: 35px;
+  color: white; }
+
+.paddingTB {
+  padding: 50px 0; }
+
+.paddingLR {
+  padding: 0 20px; }
+
+h3 {
+  background-color: #101011;
+  text-align: center;
+  padding: 1rem;
+  font-size: 35px;
+  color: white; }
+
 footer {
   background-color: #9c6010;
   background: transparent;
